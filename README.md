@@ -1,4 +1,4 @@
-## Blogs that every SRE/DevOps enthusiasts should follow
+## Blogs that every SRE/DevOps/Platform Engineer enthusiasts should follow
 
 This repository is an attempt to consolidate useful blogs for a SRE/DevOps Enthusiasts
 
