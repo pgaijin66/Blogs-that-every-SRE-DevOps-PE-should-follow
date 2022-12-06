@@ -67,7 +67,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 - [ Vinted ](https://vinted.engineering/)
 - [ Tinder ](https://medium.com/tinder)
 
-### Personal blogs
+### Individual people's blogs
 - [Brendan greg](https://www.brendangregg.com/blog/index.html)
 - [John Roach](https://www.johnroach.io)
 - [Stephen Thorne](https://medium.com/@jerub)
