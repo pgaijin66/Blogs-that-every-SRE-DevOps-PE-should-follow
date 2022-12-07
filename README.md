@@ -9,7 +9,7 @@ Before you contribute, please think about these three questions:
 * Are you impressed by the depth of information and amount of details shown ? 
 * Are you impressed by the level of ingenuity ? 
 
-* Is their blog your go-to-blog when you need to do certain tasks ? ( *eg: My go do blog for anything ansible is https://www.jeffgeerling.com/blog* )
+* Is their blog your go-to-blog when you need to do certain tasks ? ( *eg: My go to blog for anything ansible is https://www.jeffgeerling.com/blog* )
 
 If your answer to these is yes, then yay, we got a jackpot. Add 'em.
 
