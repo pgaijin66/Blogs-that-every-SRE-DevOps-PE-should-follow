@@ -4,7 +4,18 @@ This repository is an attempt to consolidate useful blogs for a SRE/DevOps Enthu
 
 ## Contribution
 
-Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Contributions are always welcome!
+Before you contribute, please think about these three questions:
+
+* Are you impressed by the depth of information and amount of details shown ? 
+* Are you impressed by the level of ingenuity ? 
+
+* Is their blog your go-to-blog when you need to do certain tasks ? ( *eg: My go do blog for anything ansible is https://www.jeffgeerling.com/blog* )
+
+If your answer to these is yes, then yay, we got a jackpot. Add 'em.
+
+Also, please take a look at the [contribution guidelines](CONTRIBUTING.md) first. 
+
+Contributions are always welcome!
 
 ### Companies tech blogs
 
@@ -72,3 +83,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 - [John Roach](https://www.johnroach.io)
 - [Stephen Thorne](https://medium.com/@jerub)
 - [Cindy Sridharan](https://copyconstruct.medium.com/)
+- [Jeff Geerling](https://www.jeffgeerling.com/blog)
+- [Ivan Velichko](https://iximiuz.com)
+- [Ahmet](https://ahmet.im/blog/)
+- [Kelsey Hightower](https://medium.com/@kelseyhightower)
