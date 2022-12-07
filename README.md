@@ -4,11 +4,12 @@ This repository is an attempt to consolidate useful blogs for a SRE/DevOps Enthu
 
 ## Contribution
 
-Before you contribute, please think about this
+Before you contribute, please think about these three questions:
 
-- [ ] Are you impressed by the depth of information and amount of details shown ? 
-- [ ] Are you impressed by the level of ingenuity ? 
-- [ ] If their blog your go-to-blog when you need to do certain tasks ? ( eg: Mine if https://www.jeffgeerling.com/blog)
+* Are you impressed by the depth of information and amount of details shown ? 
+* Are you impressed by the level of ingenuity ? 
+
+* Is their blog your go-to-blog when you need to do certain tasks ? ( *eg: My go do blog for anything ansible is https://www.jeffgeerling.com/blog* )
 
 If your answer to these is yes, then yay, we got a jackpot. Add 'em.
 
